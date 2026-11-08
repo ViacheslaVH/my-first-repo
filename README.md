@@ -23,7 +23,7 @@
 
 ## 🔗 Official Links
 - **Telegram / Community:** [Join Community](https://t.me/CEDAR_ARROW_COIN)
-- **Creator Profile:** [@CedarArrowDuke](https://t.me/CedarArrowDuke)
+- **Creator Profile:** [@CedarArrowCoin](https://join.pump.fun/HSag/o62bmbud)
 
 ---
 *Powered by open-source development & community trust.*
