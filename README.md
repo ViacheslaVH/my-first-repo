@@ -22,7 +22,7 @@
 ---
 
 ## 🔗 Official Links
-- **Telegram / Community:** [Join Community](https://t.me/)
+- **Telegram / Community:** [Join Community](https://t.me/CEDAR_ARROW_COIN)
 - **Creator Profile:** [@CedarArrowDuke](https://t.me/CedarArrowDuke)
 
 ---
