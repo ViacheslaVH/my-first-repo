@@ -1,2 +1,30 @@
-# my-first-repo
-The official token of @CedarArrowDuke ecosystem. Designed to reward active supporters, unlock exclusive perks, and drive community initiatives. Hold $CAD to grow with us!
+# 🌲 CedarArrowCoin ($CAD)
+
+> Official Creator Token of **@CedarArrowDuke**
+
+---
+
+## 📌 About the Token
+**CedarArrowCoin ($CAD)** is designed to support digital initiatives, empower community governance, and reward active participants within the CedarArrow ecosystem.
+
+- **Token Name:** CedarArrowCoin
+- **Ticker:** $CAD
+- **Creator:** @CedarArrowDuke
+- **Chain / Liquidity:** SOL
+
+---
+
+## 🚀 Key Benefits & Perks
+- 🔒 **Exclusive Access:** Early drops and private updates.
+- 🎁 **Holder Rewards:** Creator fee distribution and incentives.
+- 🗳️ **Community Voice:** Voting rights on future ecosystem projects.
+
+---
+
+## 🔗 Official Links
+- **Telegram / Community:** [Join Community](https://t.me/)
+- **Creator Profile:** [@CedarArrowDuke](https://t.me/CedarArrowDuke)
+
+---
+*Powered by open-source development & community trust.*
+
